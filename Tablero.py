@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_drawable_canvas import st_canvas
 
-st.title("Tablero Dibujo")
+st.title("Tablero Dibujo🎨")
 
 with st.sidebar:
     st.subheader("Propiedades del Tablero")
